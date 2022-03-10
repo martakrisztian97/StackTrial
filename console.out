@@ -1,0 +1,17 @@
+[]
+Stack is empty: true
+[A, B, C, D, E]
+Stack is empty: false
+
+[A, B, C, D, E]
+pop(): E
+[A, B, C, D]
+
+[A, B, C, D]
+peek(): D
+[A, B, C, D]
+
+[A, B, C, D]
+search(W): -1
+search(A): 4
+search(D): 1
