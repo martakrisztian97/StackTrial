@@ -1,5 +1,5 @@
 # StackTrial
-Java Stack class trial.
+Java Stack class try out.
 
 [Stack documentation.](https://docs.oracle.com/javase/7/docs/api/java/util/Stack.html)
 
